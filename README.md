@@ -1,6 +1,13 @@
 # Amazon Music Data Scraper with Apache Airflow
 
 This project automates the process of **scraping data from Amazon** (specifically about music) and **storing it in a PostgreSQL database**. The workflow is orchestrated using **Apache Airflow**, providing scalability, automation, and scheduling capabilities.
+## Prerequisites
+To run this project, ensure you have the following installed:
+- **Docker** and **Docker Compose**: For containerized setup
+- **PostgreSQL**: As the target database
+- **Python 3.x**: If running outside of Docker for testing purposes
+- **Apache Airflow**: For orchestration and task scheduling
+
 
 ## Key Features:
 
