@@ -34,5 +34,4 @@ Airflow enables the project to be scheduled to run at regular intervals (e.g., d
 ### 1. Install Dependencies
 Install the following dependencies:
 
-```bash
-pip install requests pandas beautifulsoup4 apache-airflow psycopg2
+
