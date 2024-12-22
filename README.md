@@ -31,7 +31,5 @@ The entire workflow is automated and managed using **Apache Airflow**. Airflow i
 Airflow enables the project to be scheduled to run at regular intervals (e.g., daily) and allows easy scaling for larger datasets or additional tasks (such as scraping other product categories).
 
 
-### 1. Install Dependencies
-Install the following dependencies:
 
 
